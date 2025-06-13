@@ -330,3 +330,6 @@ with vibracao:
     st.plotly_chart(fig_vibracao_h_bar)
         
   
+        
+    
+    
